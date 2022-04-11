@@ -1,8 +1,8 @@
 <p>
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marlondlacerda/pokedex?color=6E40C9&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/marlondlacerda/pokedex?color=6E40C9&style=flat-square">
-  <a href="https://github.com/marlondlacerda/pokedex/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marlondlacerda/pokedex?color=6E40C9&style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wanlucas/pokedex?color=6E40C9&style=flat-square">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/wanlucas/pokedex?color=6E40C9&style=flat-square">
+  <a href="https://github.com/wanlucas/pokedex/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wanlucas/pokedex?color=6E40C9&style=flat-square">
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 ## Preview
 
-<a title="Pokedex" href="https://marlondlacerda.github.io/Pokedex/" >Clique aqui </a> para ter acesso a um  preview do App. <br>
+<a title="Pokedex" href="https://wanlucas.github.io/pokedex/" >Clique aqui </a> para ter acesso a um  preview do App. <br>
 
 ## Sobre o Pokedex
 
