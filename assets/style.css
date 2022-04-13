@@ -12,11 +12,6 @@
   width: 0;
 }
 
-:root {
-
-  --secundary-color: hsl(0, 0%, 24%);
-}
-
 body {
   width: 100%;
   height: 100vh;
@@ -40,8 +35,10 @@ body , .pokedex , .display , .screen , .poke-info , .poke-type {
 .display {
   flex-direction: column;
   justify-content: space-between;
-  width: 650px;
-  height: 600px;
+  width: 45vw;
+  height: 40vw;
+  min-width: 400px;
+  min-height: 600px;
   padding: 10px;
   background: hsl(0, 0%, 76%);
   border: 3px solid hsla(0, 0%, 0%, 0.8);
@@ -102,7 +99,7 @@ p , span {
 }
 
 .screen {
-  justify-content: space-between;
+  justify-content: center;
   width: 90%;
   height: 88%;
   border-radius: 5px;
@@ -115,10 +112,10 @@ p , span {
   border-radius: 5px;
   z-index: 10;
   height: 100%;
+  background: hsl(0, 0%, 24%);
 }
 
 .poke-card {
-  background: var(--secundary-color);
   width: 60%;
   margin-right: 15px;
   box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.1);
@@ -128,7 +125,6 @@ p , span {
 .poke-list {
   width: 40%;
   padding: 2px 0;
-  background: var(--secundary-color);
   scrollbar-width: none;
 }
 
@@ -139,10 +135,11 @@ p , span {
 
 .poke-list li {
   display: flex;
+  width: 100%;
+  height: 70px;
   align-items: center;
   justify-content: space-between;
   padding: 0 20px 0 15px;
-  margin: 10px 0;
   font-size: 1.2rem;
 }
 
@@ -174,7 +171,7 @@ p , span {
 }
 
 #poke-image img {
-  width: 180px;
+  width: 170px;
   object-fit: cover;
 }
 
@@ -356,4 +353,57 @@ p , span {
 
 .Fada {
   background: radial-gradient(circle, white, hsl(295, 71%, 61%) 100%);
+}
+
+@media only screen and (max-width: 1100px) {
+
+  .display {
+    width: 60vw;
+    height: 58vw;
+  }
+
+}
+
+@media only screen and (max-width: 900px) {
+  
+  .display {
+    height: 100%;
+    width: 90%;
+  }
+
+  .screen {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .poke-card {
+    width: 80%;
+    height: 80%;
+    margin: 0 0 10px 0;
+  }
+  
+  .poke-list {
+    width: 80%;
+    height: 20%;
+  }
+
+  .poke-list ul {
+    display: flex;
+    height: 100%;
+  }
+
+  .poke-list ul li {
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  
+  .poke-list , .poke-card , .display{
+    width: 100%;
+  }
+
 }
