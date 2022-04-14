@@ -8,10 +8,9 @@ const pokemons = [
     ataque: 240,
     defesa: 260,
     velocidade: 200,    habilidades: [
-      {
-        habilidade1: 'Folha navalha',
-        habilidade2: 'Absorver',
-      },
+      'Folha navalha',
+      'Absorver',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png',
   },
@@ -25,10 +24,9 @@ const pokemons = [
     defesa: 300,
     velocidade: 240,
     habilidades: [
-      {
-        habilidade1: 'Leech Seed',
-        habilidade2: 'Stunspore',
-      },
+      'Leech Seed',
+      'Stunspore',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png',
   },
@@ -42,10 +40,9 @@ const pokemons = [
     defesa: 350,
     velocidade: 260,
     habilidades: [
-      {
-        habilidade1: 'Raio de Sol',
-        habilidade2: 'SleepPowder',
-      },
+      'Raio de Sol',
+      'SleepPowder',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png',
   },
@@ -59,10 +56,9 @@ const pokemons = [
     defesa: 240,
     velocidade: 260,
     habilidades: [
-      {
-        habilidade1: 'Lança-chamas',
-        habilidade2: 'Cabeçada',
-      },
+      'Lança-chamas',
+      'Cabeçada',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png',
   },
@@ -76,10 +72,9 @@ const pokemons = [
     defesa: 250,
     velocidade: 300,
     habilidades: [
-      {
-        habilidade1: 'Golpe de Chamas',
-        habilidade2: 'Chamas Furiosas',
-      },
+      'Golpe de Chamas',
+      'Chamas Furiosas',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png',
   },
@@ -93,10 +88,9 @@ const pokemons = [
     defesa: 290,
     velocidade: 370,
     habilidades: [
-      {
-        habilidade1: 'Incinerar',
-        habilidade2: 'Raio de Calor',
-      },
+      'Incinerar',
+      'Raio de Calor',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png',
   },
@@ -109,10 +103,9 @@ const pokemons = [
     ataque: 200,
     defesa: 240,
     velocidade: 210,    habilidades: [
-      {
-        habilidade1: 'Bolha',
-        habilidade2: 'Revolver de Água',
-      },
+      'Bolha',
+      'Revolver de Água',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png',
   },
@@ -126,10 +119,9 @@ const pokemons = [
     defesa: 300,
     velocidade: 240,
     habilidades: [
-      {
-        habilidade1: 'Carapaça Forte',
-        habilidade2: 'Aqua Corte',
-      },
+      'Carapaça Forte',
+      'Aqua Corte',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png',
   },
@@ -143,10 +135,9 @@ const pokemons = [
     defesa: 330,
     velocidade: 270,
     habilidades: [
-      {
-        habilidade1: 'Dança da Chuva',
-        habilidade2: 'Investida de Água',
-      },
+      'Dança da Chuva',
+      'Investida de Água',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png',
   },
@@ -159,10 +150,9 @@ const pokemons = [
     ataque: 200,
     defesa: 230,
     velocidade: 200,    habilidades: [
-      {
-        habilidade1: 'Bando',
-        habilidade2: 'Picada',
-      },
+      'Bando',
+      'Picada',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png',
   },
@@ -175,10 +165,9 @@ const pokemons = [
     ataque: 220,
     defesa: 240,
     velocidade: 210,    habilidades: [
-      {
-        habilidade1: 'Exoesqueleto',
-        habilidade2: 'Aríate',
-      },
+      'Exoesqueleto',
+      'Aríate',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png',
   },
@@ -192,10 +181,9 @@ const pokemons = [
     defesa: 270,
     velocidade: 290,
     habilidades: [
-      {
-        habilidade1: 'Escamas Tricolores',
-        habilidade2: 'Lufada de Vento',
-      },
+      'Escamas Tricolores',
+      'Lufada de Vento',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png',
   },
@@ -208,10 +196,9 @@ const pokemons = [
     ataque: 250,
     defesa: 200,
     velocidade: 200,    habilidades: [
-      {
-        habilidade1: 'Perfurar',
-        habilidade2: 'Presentimento de Inseto',
-      },
+      'Perfurar',
+      'Presentimento de Inseto',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png',
   },
@@ -224,10 +211,9 @@ const pokemons = [
     ataque: 220,
     defesa: 280,
     velocidade: 230,    habilidades: [
-      {
-        habilidade1: 'Fortificar',
-        habilidade2: 'Picada',
-      },
+      'Fortificar',
+      'Picada',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png',
   },
@@ -241,10 +227,9 @@ const pokemons = [
     defesa: 310,
     velocidade: 270,
     habilidades: [
-      {
-        habilidade1: 'Ferroada Persistente',
-        habilidade2: 'Lança a jato',
-      },
+      'Ferroada Persistente',
+      'Lança a jato',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png',
   },
@@ -257,10 +242,9 @@ const pokemons = [
     ataque: 220,
     defesa: 210,
     velocidade: 240,    habilidades: [
-      {
-        habilidade1: 'Coleta',
-        habilidade2: 'Lufada de Vento',
-      },
+      'Coleta',
+      'Lufada de Vento',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png',
   },
@@ -274,10 +258,9 @@ const pokemons = [
     defesa: 240,
     velocidade: 290,
     habilidades: [
-      {
-        habilidade1: 'Correio Aério',
-        habilidade2: 'Lufada de Vento',
-      },
+      'Correio Aério',
+      'Lufada de Vento',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png',
   },
@@ -291,10 +274,9 @@ const pokemons = [
     defesa: 280,
     velocidade: 330,
     habilidades: [
-      {
-        habilidade1: 'Ataque de Vento',
-        habilidade2: 'Tempestade Giratória',
-      },
+      'Ataque de Vento',
+      'Tempestade Giratória',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png',
   },
@@ -306,10 +288,9 @@ const pokemons = [
     ataque: 240,
     defesa: 210,
     velocidade: 230,    habilidades: [
-      {
-        habilidade1: 'Focalizar Energia',
-        habilidade2: 'Mordida',
-      },
+      'Focalizar Energia',
+      'Mordida',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png',
   },
@@ -323,10 +304,9 @@ const pokemons = [
     defesa: 250,
     velocidade: 290,
     habilidades: [
-      {
-        habilidade1: 'Presa Acentuada',
-        habilidade2: 'Hiperpresa',
-      },
+      'Presa Acentuada',
+      'Hiperpresa',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png',
   },
@@ -339,10 +319,9 @@ const pokemons = [
     ataque: 230,
     defesa: 210,
     velocidade: 240,    habilidades: [
-      {
-        habilidade1: 'Bicada',
-        habilidade2: 'Mergulo Veloz',
-      },
+      'Bicada',
+      'Mergulo Veloz',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png',
   },
@@ -356,10 +335,9 @@ const pokemons = [
     defesa: 240,
     velocidade: 310,
     habilidades: [
-      {
-        habilidade1: 'Bico Broca',
-        habilidade2: 'Ataque Cortante',
-      },
+      'Bico Broca',
+      'Ataque Cortante',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png',
   },
@@ -372,10 +350,9 @@ const pokemons = [
     ataque: 230,
     defesa: 210,
     velocidade: 230,    habilidades: [
-      {
-        habilidade1: 'Aríate',
-        habilidade2: 'Surpresa de Cauda',
-      },
+      'Aríate',
+      'Surpresa de Cauda',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png',
   },
@@ -389,10 +366,9 @@ const pokemons = [
     defesa: 250,
     velocidade: 280,
     habilidades: [
-      {
-        habilidade1: 'Asfixia Pesada',
-        habilidade2: 'Dente Venenoso',
-      },
+      'Asfixia Pesada',
+      'Dente Venenoso',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png',
   },
@@ -406,10 +382,9 @@ const pokemons = [
     defesa: 240,
     velocidade: 280,
     habilidades: [
-      {
-        habilidade1: 'Choque do trovão',
-        habilidade2: 'Cabeçada',
-      },
+      'Choque do trovão',
+      'Cabeçada',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png',
   },
@@ -423,10 +398,9 @@ const pokemons = [
     defesa: 260,
     velocidade: 330,
     habilidades: [
-      {
-        habilidade1: 'Carga Veloz',
-        habilidade2: 'Trovão',
-      },
+      'Carga Veloz',
+      'Trovão',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png',
   },
@@ -439,10 +413,9 @@ const pokemons = [
     ataque: 240,
     defesa: 240,
     velocidade: 220,    habilidades: [
-      {
-        habilidade1: 'Desaterrar',
-        habilidade2: 'Vamos Botar pra Rolar',
-      },
+      'Desaterrar',
+      'Vamos Botar pra Rolar',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png',
   },
@@ -456,10 +429,9 @@ const pokemons = [
     defesa: 330,
     velocidade: 240,
     habilidades: [
-      {
-        habilidade1: 'Cavar pra Cima',
-        habilidade2: 'Fosso de Areia',
-      },
+      'Cavar pra Cima',
+      'Fosso de Areia',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png',
   },
@@ -472,10 +444,9 @@ const pokemons = [
     ataque: 220,
     defesa: 240,
     velocidade: 210,    habilidades: [
-      {
-        habilidade1: 'Chamar a Família',
-        habilidade2: 'Arranhão',
-      },
+      'Chamar a Família',
+      'Arranhão',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png',
   },
@@ -489,10 +460,9 @@ const pokemons = [
     defesa: 250,
     velocidade: 240,
     habilidades: [
-      {
-        habilidade1: 'Resgatar a Família',
-        habilidade2: 'Mordida',
-      },
+      'Resgatar a Família',
+      'Mordida',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png',
   },
@@ -506,10 +476,9 @@ const pokemons = [
     defesa: 300,
     velocidade: 260,
     habilidades: [
-      {
-        habilidade1: 'Chamado da Rainha',
-        habilidade2: 'Lariat Poderoso',
-      },
+      'Chamado da Rainha',
+      'Lariat Poderoso',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png',
   },
@@ -522,10 +491,9 @@ const pokemons = [
     ataque: 240,
     defesa: 220,
     velocidade: 220,    habilidades: [
-      {
-        habilidade1: 'Bicada',
-        habilidade2: 'Ataque de Chifre',
-      },
+      'Bicada',
+      'Ataque de Chifre',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png',
   },
@@ -539,10 +507,9 @@ const pokemons = [
     defesa: 250,
     velocidade: 250,
     habilidades: [
-      {
-        habilidade1: 'Bicada',
-        habilidade2: 'Chifre Broca',
-      },
+      'Bicada',
+      'Chifre Broca',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png',
   },
@@ -556,10 +523,9 @@ const pokemons = [
     defesa: 300,
     velocidade: 300,
     habilidades: [
-      {
-        habilidade1: 'Arrastar para Fora',
-        habilidade2: 'Pancada do Rei',
-      },
+      'Arrastar para Fora',
+      'Pancada do Rei',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png',
   },
@@ -572,10 +538,9 @@ const pokemons = [
     ataque: 220,
     defesa: 200,
     velocidade: 200,    habilidades: [
-      {
-        habilidade1: 'Pancada',
-        habilidade2: 'Tiro Mágico',
-      },
+      'Pancada',
+      'Tiro Mágico',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png',
   },
@@ -589,10 +554,9 @@ const pokemons = [
     defesa: 230,
     velocidade: 220,
     habilidades: [
-      {
-        habilidade1: 'Milagre Enluarado',
-        habilidade2: 'Tiro Mágico',
-      },
+      'Milagre Enluarado',
+      'Tiro Mágico',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png',
   },
@@ -605,10 +569,9 @@ const pokemons = [
     ataque: 230,
     defesa: 210,
     velocidade: 240,    habilidades: [
-      {
-        habilidade1: 'Carvão Vivo',
-        habilidade2: 'Chute Poderoso',
-      },
+      'Carvão Vivo',
+      'Chute Poderoso',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png',
   },
@@ -622,10 +585,9 @@ const pokemons = [
     defesa: 250,
     velocidade: 320,
     habilidades: [
-      {
-        habilidade1: 'Chamas Sobrenaturais',
-        habilidade2: 'Calda de Chamas',
-      },
+      'Chamas Sobrenaturais',
+      'Calda de Chamas',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png',
   },
@@ -638,10 +600,9 @@ const pokemons = [
     ataque: 210,
     defesa: 220,
     velocidade: 220,    habilidades: [
-      {
-        habilidade1: 'Pancada',
-        habilidade2: 'Vamos Botar pra Rolar',
-      },
+      'Pancada',
+      'Vamos Botar pra Rolar',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png',
   },
@@ -655,10 +616,9 @@ const pokemons = [
     defesa: 250,
     velocidade: 250,
     habilidades: [
-      {
-        habilidade1: 'Encontrar Tesouro',
-        habilidade2: 'Hiperpancada',
-      },
+      'Encontrar Tesouro',
+      'Hiperpancada',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png',
   },
@@ -671,10 +631,9 @@ const pokemons = [
     ataque: 220,
     defesa: 210,
     velocidade: 250,    habilidades: [
-      {
-        habilidade1: 'Esconde nas Sombras',
-        habilidade2: 'Mergulho Veloz',
-      },
+      'Esconde nas Sombras',
+      'Mergulho Veloz',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png',
   },
@@ -688,10 +647,9 @@ const pokemons = [
     defesa: 250,
     velocidade: 330,
     habilidades: [
-      {
-        habilidade1: 'Compra Discreta',
-        habilidade2: 'Golpe de Ar',
-      },
+      'Compra Discreta',
+      'Golpe de Ar',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png',
   },
@@ -704,10 +662,9 @@ const pokemons = [
     ataque: 240,
     defesa: 250,
     velocidade: 210,    habilidades: [
-      {
-        habilidade1: 'Aroma Doce',
-        habilidade2: 'Pó Venenoso',
-      },
+      'Aroma Doce',
+      'Pó Venenoso',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png',
   },
@@ -721,10 +678,9 @@ const pokemons = [
     defesa: 270,
     velocidade: 220,
     habilidades: [
-      {
-        habilidade1: 'Pó de Sono',
-        habilidade2: 'Aroma Fétido',
-      },
+      'Pó de Sono',
+      'Aroma Fétido',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png',
   },
@@ -738,10 +694,9 @@ const pokemons = [
     defesa: 290,
     velocidade: 240,
     habilidades: [
-      {
-        habilidade1: 'Jardim de Flores Perfumadas',
-        habilidade2: 'Florescer Intenso',
-      },
+      'Jardim de Flores Perfumadas',
+      'Florescer Intenso',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png',
   },
@@ -754,10 +709,9 @@ const pokemons = [
     ataque: 240,
     defesa: 240,
     velocidade: 200,    habilidades: [
-      {
-        habilidade1: 'Talho',
-        habilidade2: 'Arranhão',
-      },
+      'Talho',
+      'Arranhão',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png',
   },
@@ -771,10 +725,9 @@ const pokemons = [
     defesa: 260,
     velocidade: 220,
     habilidades: [
-      {
-        habilidade1: 'Colisão de Cogumelo',
-        habilidade2: 'Raio Solar',
-      },
+      'Colisão de Cogumelo',
+      'Raio Solar',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png',
   },
@@ -787,10 +740,9 @@ const pokemons = [
     ataque: 240,
     defesa: 230,
     velocidade: 220,    habilidades: [
-      {
-        habilidade1: 'Baque',
-        habilidade2: 'Feixe Psíquico',
-      },
+      'Baque',
+      'Feixe Psíquico',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png',
   },
@@ -804,10 +756,9 @@ const pokemons = [
     defesa: 250,
     velocidade: 290,
     habilidades: [
-      {
-        habilidade1: 'Voo Agressivo',
-        habilidade2: 'Pó Venenoso',
-      },
+      'Voo Agressivo',
+      'Pó Venenoso',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png',
   },
@@ -820,10 +771,9 @@ const pokemons = [
     ataque: 230,
     defesa: 200,
     velocidade: 260,    habilidades: [
-      {
-        habilidade1: 'Cavar',
-        habilidade2: 'Arranhão',
-      },
+      'Cavar',
+      'Arranhão',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png',
   },
@@ -837,10 +787,9 @@ const pokemons = [
     defesa: 230,
     velocidade: 380,
     habilidades: [
-      {
-        habilidade1: 'Trio de Caras',
-        habilidade2: 'Bomba de Lamas',
-      },
+      'Trio de Caras',
+      'Bomba de Lamas',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png',
   },
@@ -854,10 +803,9 @@ const pokemons = [
     defesa: 240,
     velocidade: 280,
     habilidades: [
-      {
-        habilidade1: 'Dia do Pagamento',
-        habilidade2: 'Fingimento',
-      },
+      'Dia do Pagamento',
+      'Fingimento',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png',
   },
@@ -871,10 +819,9 @@ const pokemons = [
     defesa: 260,
     velocidade: 320,
     habilidades: [
-      {
-        habilidade1: 'Dia do Pagamento',
-        habilidade2: 'Mordida',
-      },
+      'Dia do Pagamento',
+      'Mordida',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png',
   },
@@ -887,10 +834,9 @@ const pokemons = [
     ataque: 240,
     defesa: 210,
     velocidade: 240,    habilidades: [
-      {
-        habilidade1: 'Chuva Borrifante',
-        habilidade2: 'Arranhão',
-      },
+      'Chuva Borrifante',
+      'Arranhão',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png',
   },
@@ -904,10 +850,9 @@ const pokemons = [
     defesa: 270,
     velocidade: 270,
     habilidades: [
-      {
-        habilidade1: 'Feixe Psíquico',
-        habilidade2: 'Surfar',
-      },
+      'Feixe Psíquico',
+      'Surfar',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png',
   },
@@ -920,10 +865,9 @@ const pokemons = [
     ataque: 250,
     defesa: 230,
     velocidade: 250,    habilidades: [
-      {
-        habilidade1: 'Arranhão',
-        habilidade2: 'Punho Focalizado',
-      },
+      'Arranhão',
+      'Punho Focalizado',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png',
   },
@@ -937,10 +881,9 @@ const pokemons = [
     defesa: 260,
     velocidade: 300,
     habilidades: [
-      {
-        habilidade1: 'Soco Tenaz',
-        habilidade2: 'Destruir',
-      },
+      'Soco Tenaz',
+      'Destruir',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png',
   },
@@ -953,10 +896,9 @@ const pokemons = [
     ataque: 260,
     defesa: 220,
     velocidade: 230,    habilidades: [
-      {
-        habilidade1: 'Aquecer',
-        habilidade2: 'Combustão',
-      },
+      'Aquecer',
+      'Combustão',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png',
   },
@@ -970,10 +912,9 @@ const pokemons = [
     defesa: 250,
     velocidade: 280,
     habilidades: [
-      {
-        habilidade1: 'Garras de Fogo',
-        habilidade2: 'Golpe de Colisão de Fogo',
-      },
+      'Garras de Fogo',
+      'Golpe de Colisão de Fogo',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png',
   },
@@ -986,10 +927,9 @@ const pokemons = [
     ataque: 220,
     defesa: 220,
     velocidade: 260,    habilidades: [
-      {
-        habilidade1: "Revolver d'água",
-        habilidade2: "Jato D'água",
-      },
+      "Revolver d'água",
+      "Jato D'água",
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png',
   },
@@ -1003,10 +943,9 @@ const pokemons = [
     defesa: 240,
     velocidade: 290,
     habilidades: [
-      {
-        habilidade1: "Tapa Duplo",
-        habilidade2: "Onda Borrifante",
-      },
+      "Tapa Duplo",
+      "Onda Borrifante",
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png',
   },
@@ -1020,10 +959,9 @@ const pokemons = [
     defesa: 280,
     velocidade: 270,
     habilidades: [
-      {
-        habilidade1: "Soco Espiral Dividido",
-        habilidade2: "Tapa do Despertar",
-      },
+      "Soco Espiral Dividido",
+      "Tapa do Despertar",
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png',
   },
@@ -1036,10 +974,9 @@ const pokemons = [
     ataque: 250,
     defesa: 180,
     velocidade: 250,    habilidades: [
-      {
-        habilidade1: "Teleporte",
-        habilidade2: "Rugir",
-      },
+      "Teleporte",
+      "Rugir",
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png',
   },
@@ -1053,10 +990,9 @@ const pokemons = [
     defesa: 200,
     velocidade: 290,
     habilidades: [
-      {
-        habilidade1: 'Psíquico',
-        habilidade2: 'Raio Psíquico',
-      },
+      'Psíquico',
+      'Raio Psíquico',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png',
   },
@@ -1070,10 +1006,9 @@ const pokemons = [
     defesa: 220,
     velocidade: 350,
     habilidades: [
-      {
-        habilidade1: 'Colher Zen',
-        habilidade2: 'Comando Mental',
-      },
+      'Colher Zen',
+      'Comando Mental',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png',
   },
@@ -1086,10 +1021,9 @@ const pokemons = [
     ataque: 250,
     defesa: 220,
     velocidade: 210,    habilidades: [
-      {
-        habilidade1: 'Rasteira',
-        habilidade2: 'Soco Firme',
-      },
+      'Rasteira',
+      'Soco Firme',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png',
   },
@@ -1102,10 +1036,9 @@ const pokemons = [
     ataque: 270,
     defesa: 240,
     velocidade: 220,    habilidades: [
-      {
-        habilidade1: 'Rasteira',
-        habilidade2: 'Esmurrar',
-      },
+      'Rasteira',
+      'Esmurrar',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png',
   },
@@ -1119,10 +1052,9 @@ const pokemons = [
     defesa: 260,
     velocidade: 230,
     habilidades: [
-      {
-        habilidade1: 'Machocante',
-        habilidade2: 'Soco Dinamite',
-      },
+      'Machocante',
+      'Soco Dinamite',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png',
   },
@@ -1135,10 +1067,9 @@ const pokemons = [
     ataque: 240,
     defesa: 220,
     velocidade: 230,    habilidades: [
-      {
-        habilidade1: 'Venochoque',
-        habilidade2: 'Chicote de Vinha',
-      },
+      'Venochoque',
+      'Chicote de Vinha',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png',
   },
@@ -1152,10 +1083,9 @@ const pokemons = [
     defesa: 240,
     velocidade: 250,
     habilidades: [
-      {
-        habilidade1: 'Mucosa Perigosa',
-        habilidade2: 'Chicote de Vinha',
-      },
+      'Mucosa Perigosa',
+      'Chicote de Vinha',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png',
   },
@@ -1169,10 +1099,9 @@ const pokemons = [
     defesa: 250,
     velocidade: 250,
     habilidades: [
-      {
-        habilidade1: 'Vinha de Pânico',
-        habilidade2: 'Raio Solar',
-      },
+      'Vinha de Pânico',
+      'Raio Solar',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png',
   },
@@ -1186,10 +1115,8 @@ const pokemons = [
     defesa: 300,
     velocidade: 200,
     habilidades: [
-      {
-        habilidade1: 'Ácido',
-        habilidade2: 'Arma de Água',
-      }
+      'Ácido',
+      'Arma de Água',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png'
   },
@@ -1203,10 +1130,8 @@ const pokemons = [
     defesa: 300,
     velocidade: 250,
     habilidades: [
-      {
-        habilidade1: 'Picada Venenosa',
-        habilidade2: 'Hidrobomba',
-      }
+      'Picada Venenosa',
+      'Hidrobomba',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png'
   },
@@ -1220,10 +1145,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 300,
     habilidades: [
-      {
-        habilidade1: 'Investida',
-        habilidade2: 'Espiral de Defesa',
-      }
+      'Investida',
+      'Espiral de Defesa',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png'
   },
@@ -1237,10 +1160,8 @@ const pokemons = [
     defesa: 500,
     velocidade: 200,
     habilidades: [
-      {
-        habilidade1: 'Atira Pedras',
-        habilidade2: 'Autodestruição',
-      }
+      'Atira Pedras',
+      'Autodestruição',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png'
   },
@@ -1254,10 +1175,8 @@ const pokemons = [
     defesa: 600,
     velocidade: 150,
     habilidades: [
-      {
-        habilidade1: 'Terremoto',
-        habilidade2: 'Explosão',
-      }
+      'Terremoto',
+      'Explosão',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png'
   },
@@ -1271,10 +1190,8 @@ const pokemons = [
     defesa: 300,
     velocidade: 500,
     habilidades: [
-      {
-        habilidade1: 'Brasa',
-        habilidade2: 'Ataque de Cauda',
-      }
+      'Brasa',
+      'Ataque de Cauda',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png'
   },
@@ -1288,10 +1205,8 @@ const pokemons = [
     defesa: 300,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Roda de Fogo',
-        habilidade2: 'Desmantelar',
-      }
+      'Roda de Fogo',
+      'Desmantelar',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png'
   },
@@ -1305,10 +1220,8 @@ const pokemons = [
     defesa: 500,
     velocidade: 200,
     habilidades: [
-      {
-        habilidade1: 'Confusão',
-        habilidade2: 'Inabilitar',
-      }
+      'Confusão',
+      'Inabilitar',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png'
   },
@@ -1322,10 +1235,8 @@ const pokemons = [
     defesa: 500,
     velocidade: 300,
     habilidades: [
-      {
-        habilidade1: 'Ataque Psíquico',
-        habilidade2: 'Arma de Água',
-      }
+      'Ataque Psíquico',
+      'Arma de Água',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png'
   },
@@ -1339,10 +1250,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Explosão Sônica',
-        habilidade2: 'Onda Trovão',
-      }
+      'Explosão Sônica',
+      'Onda Trovão',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png'
   },
@@ -1356,10 +1265,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Investida',
-        habilidade2: 'Choque do Trovão',
-      }
+      'Investida',
+      'Choque do Trovão',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png'
   },
@@ -1373,10 +1280,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Bicada',
-        habilidade2: 'Talho',
-      }
+      'Bicada',
+      'Talho',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png'
   },
@@ -1390,10 +1295,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Bicada',
-        habilidade2: 'Ataque de Fúria',
-      }
+      'Bicada',
+      'Ataque de Fúria',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png'
   },
@@ -1407,10 +1310,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Bicada Broca',
-        habilidade2: 'Tri Ataque',
-      }
+      'Bicada Broca',
+      'Tri Ataque',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png'
   },
@@ -1424,10 +1325,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Cabeçada',
-        habilidade2: 'Descansar',
-      }
+      'Cabeçada',
+      'Descansar',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png'
   },
@@ -1441,10 +1340,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Raio Aurora',
-        habilidade2: 'Desmantelar',
-      }
+      'Raio Aurora',
+      'Desmantelar',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png'
   },
@@ -1458,10 +1355,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Pancada',
-        habilidade2: 'Gás Venenoso',
-      }
+      'Pancada',
+      'Gás Venenoso',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png'
   },
@@ -1475,10 +1370,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Lodo',
-        habilidade2: 'Armadura de Ácido',
-      }
+      'Lodo',
+      'Armadura de Ácido',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png'
   },
@@ -1492,10 +1385,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Investida',
-        habilidade2: 'Retirada',
-      }
+      'Investida',
+      'Retirada',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png'
   },
@@ -1509,10 +1400,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Raio Aurora',
-        habilidade2: 'Canhão de Espinhos',
-      }
+      'Raio Aurora',
+      'Canhão de Espinhos',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png'
   },
@@ -1526,10 +1415,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Lambida',
-        habilidade2: 'Raio de Confusão',
-      }
+      'Lambida',
+      'Raio de Confusão',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png'
   },
@@ -1543,10 +1430,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Hipnose',
-        habilidade2: 'Comedor de Sonhos',
-      }
+      'Hipnose',
+      'Comedor de Sonhos',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png'
   },
@@ -1560,10 +1445,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Esfera de Escuridão',
-        habilidade2: 'Sombra da Noite',
-      }
+      'Esfera de Escuridão',
+      'Sombra da Noite',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png'
   },
@@ -1577,10 +1460,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Investida',
-        habilidade2: 'Prender',
-      }
+      'Investida',
+      'Prender',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png'
   },
@@ -1594,10 +1475,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Hipnose',
-        habilidade2: 'Confusão',
-      }
+      'Hipnose',
+      'Confusão',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png'
   },
@@ -1611,10 +1490,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Hipnose',
-        habilidade2: 'Comedor de Sonhos',
-      }
+      'Hipnose',
+      'Comedor de Sonhos',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png'
 
@@ -1629,10 +1506,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Bolha',
-        habilidade2: 'Encarar',
-      }
+      'Bolha',
+      'Encarar',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png'
   },
@@ -1646,10 +1521,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Agarramento Compressor',
-        habilidade2: 'Guilhotina',
-      }
+      'Agarramento Compressor',
+      'Guilhotina',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png'
   },
@@ -1663,10 +1536,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Investida',
-        habilidade2: 'Autodestruição',
-      }
+      'Investida',
+      'Autodestruição',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png'
   },
@@ -1680,10 +1551,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Explosão Sônica',
-        habilidade2: 'Explosão',
-      }
+      'Explosão Sônica',
+      'Explosão',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png'
   },
@@ -1697,10 +1566,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Barricada',
-        habilidade2: 'Hipnose',
-      }
+      'Barricada',
+      'Hipnose',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png'
   },
@@ -1714,10 +1581,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Hipnose',
-        habilidade2: 'Raio Solar',
-      }
+      'Hipnose',
+      'Raio Solar',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png'
   },
@@ -1731,10 +1596,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Bastão de Osso',
-        habilidade2: 'Raiva',
-      }
+      'Bastão de Osso',
+      'Raiva',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png'
   },
@@ -1748,10 +1611,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Bastão de Osso',
-        habilidade2: 'Ossomerangue',
-      }
+      'Bastão de Osso',
+      'Ossomerangue',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png'
   },
@@ -1765,10 +1626,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Chute Duplo',
-        habilidade2: 'Mega Chute',
-      }
+      'Chute Duplo',
+      'Mega Chute',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png'
   },
@@ -1782,10 +1641,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Soco de Cometa',
-        habilidade2: 'Mega Soco',
-      }
+      'Soco de Cometa',
+      'Mega Soco',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png'
   },
@@ -1799,10 +1656,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Enrolar',
-        habilidade2: 'Pisotear',
-      }
+      'Enrolar',
+      'Pisotear',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png'
   },
@@ -1816,10 +1671,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Investida',
-        habilidade2: 'Cortina de Fumaça',
-      }
+      'Investida',
+      'Cortina de Fumaça',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png'
   },
@@ -1833,10 +1686,8 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Investida',
-        habilidade2: 'Lodo',
-      }
+      'Investida',
+      'Lodo',
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png'
   },
@@ -1850,10 +1701,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Ataque de Chifre',
-        habilidade2: 'Ataque de Cauda',
-      },
+      'Ataque de Chifre',
+      'Ataque de Cauda',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png',
   },
@@ -1867,10 +1717,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Ataque de Chifre',
-        habilidade2: 'Pisotear',
-      },
+      'Ataque de Chifre',
+      'Pisotear',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png',
   },
@@ -1884,10 +1733,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Pancada',
-        habilidade2: 'Tapa duplo',
-      },
+      'Pancada',
+      'Tapa duplo',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png',
   },
@@ -1901,10 +1749,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Contrair',
-        habilidade2: 'Absorver',
-      },
+      'Contrair',
+      'Absorver',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png',
   },
@@ -1918,10 +1765,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Soco Cometa',
-        habilidade2: 'Raiva',
-      },
+      'Soco Cometa',
+      'Raiva',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png',
   },
@@ -1935,10 +1781,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Bolha',
-        habilidade2: 'Cortina de Fumaça',
-      },
+      'Bolha',
+      'Cortina de Fumaça',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png',
   },
@@ -1952,10 +1797,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Encarar',
-        habilidade2: 'Hidro bomba',
-      },
+      'Encarar',
+      'Hidro bomba',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png',
   },
@@ -1969,10 +1813,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Bicada',
-        habilidade2: 'Ataque de Cauda',
-      },
+      'Bicada',
+      'Ataque de Cauda',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png',
   },
@@ -1986,10 +1829,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Ataque de Chifre',
-        habilidade2: 'Cachoeira',
-      },
+      'Ataque de Chifre',
+      'Cachoeira',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png',
   },
@@ -2003,10 +1845,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Investida',
-        habilidade2: 'Arma de Água',
-      },
+      'Investida',
+      'Arma de Água',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png',
   },
@@ -2020,10 +1861,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Recuperar',
-        habilidade2: 'Hidro bomba',
-      },
+      'Recuperar',
+      'Hidro bomba',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png',
   },
@@ -2037,10 +1877,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Confusão',
-        habilidade2: 'Barreira',
-      },
+      'Confusão',
+      'Barreira',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png',
   },
@@ -2054,10 +1893,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Talho',
-        habilidade2: 'Dança das Espadas',
-      },
+      'Talho',
+      'Dança das Espadas',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png',
   },
@@ -2071,10 +1909,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Tapa',
-        habilidade2: 'Soco de Gelo',
-      },
+      'Tapa',
+      'Soco de Gelo',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png',
   },
@@ -2088,10 +1925,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Soco Trovoada',
-        habilidade2: 'Ataque Rápido',
-      },
+      'Soco Trovoada',
+      'Ataque Rápido',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png',
   },
@@ -2105,10 +1941,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Soco de Fogo',
-        habilidade2: 'Lança Chamas',
-      },
+      'Soco de Fogo',
+      'Lança Chamas',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png',
   },
@@ -2122,10 +1957,9 @@ const pokemons = [
     defesa: 600,
     velocidade: 500,
     habilidades: [
-      {
-        habilidade1: 'Agarramento Compressor',
-        habilidade2: 'Arremesso Sísmico',
-      },
+      'Agarramento Compressor',
+      'Arremesso Sísmico',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png',
   },
@@ -2139,10 +1973,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Investida',
-        habilidade2: 'Pisotear',
-      },
+      'Investida',
+      'Pisotear',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png',
   },
@@ -2156,10 +1989,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 500,
     habilidades: [
-      {
-        habilidade1: 'Borrifada',
-        habilidade2: 'Investida',
-      },
+      'Borrifada',
+      'Investida',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png',
   },
@@ -2173,10 +2005,9 @@ const pokemons = [
     defesa: 500,
     velocidade: 300,
     habilidades: [
-      {
-        habilidade1: 'Fúria do Dragão',
-        habilidade2: 'Hidro bomba',
-      },
+      'Fúria do Dragão',
+      'Hidro bomba',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png',
   },
@@ -2190,10 +2021,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Arma de Água',
-        habilidade2: 'Névoa',
-      },
+      'Arma de Água',
+      'Névoa',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png',
   },
@@ -2207,10 +2037,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Transformar',
-        habilidade2: 'Transformar',
-      },
+      'Transformar',
+      'Transformar',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png',
   },
@@ -2224,10 +2053,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Investida',
-        habilidade2: 'Ataque Rápido',
-      },
+      'Investida',
+      'Ataque Rápido',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png',
   },
@@ -2241,10 +2069,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Ataque Rápido',
-        habilidade2: 'Hidro bomba',
-      },
+      'Ataque Rápido',
+      'Hidro bomba',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png',
   },
@@ -2258,10 +2085,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Ataque Rápido',
-        habilidade2: 'Trovão',
-      },
+      'Ataque Rápido',
+      'Trovão',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png',
   },
@@ -2275,10 +2101,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Ataque Rápido',
-        habilidade2: 'Lança Chamas',
-      },
+      'Ataque Rápido',
+      'Lança Chamas',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png',
   },
@@ -2292,10 +2117,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Investida',
-        habilidade2: 'Conversão',
-      },
+      'Investida',
+      'Conversão',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png',
   },
@@ -2309,10 +2133,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Arma de Água',
-        habilidade2: 'Retirada',
-      },
+      'Arma de Água',
+      'Retirada',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png',
   },
@@ -2326,10 +2149,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Arma de Água',
-        habilidade2: 'Ataque de Chifre',
-      },
+      'Arma de Água',
+      'Ataque de Chifre',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png',
   },
@@ -2343,10 +2165,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Arranhão',
-        habilidade2: 'Endurecer',
-      },
+      'Arranhão',
+      'Endurecer',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png',
   },
@@ -2360,10 +2181,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Arranhão',
-        habilidade2: 'Talho',
-      },
+      'Arranhão',
+      'Talho',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png',
   },
@@ -2377,10 +2197,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Ataque de Asa',
-        habilidade2: 'Agilidade',
-      },
+      'Ataque de Asa',
+      'Agilidade',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png',
   },
@@ -2394,10 +2213,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Cabeçada',
-        habilidade2: 'Descansar',
-      },
+      'Cabeçada',
+      'Descansar',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png',
   },
@@ -2411,10 +2229,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Bicada',
-        habilidade2: 'Raio de Gelo',
-      },
+      'Bicada',
+      'Raio de Gelo',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png',
   },
@@ -2428,10 +2245,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Choque do Trovão',
-        habilidade2: 'Bicada Broca',
-      },
+      'Choque do Trovão',
+      'Bicada Broca',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png',
   },
@@ -2445,10 +2261,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Bicada',
-        habilidade2: 'Roda de Fogo',
-      },
+      'Bicada',
+      'Roda de Fogo',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png',
   },
@@ -2462,10 +2277,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Enrolar',
-        habilidade2: 'Onda Trovão',
-      },
+      'Enrolar',
+      'Onda Trovão',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png',
   },
@@ -2479,10 +2293,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Enrolar',
-        habilidade2: 'Encarar',
-      },
+      'Enrolar',
+      'Encarar',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png',
   },
@@ -2496,10 +2309,9 @@ const pokemons = [
     defesa: 400,
     velocidade: 400,
     habilidades: [
-      {
-        habilidade1: 'Dança do Dragão',
-        habilidade2: 'Velocidade Extrema',
-      },
+      'Dança do Dragão',
+      'Velocidade Extrema',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png',
   },
@@ -2512,10 +2324,9 @@ const pokemons = [
     defesa: 600,
     velocidade: 800,
     habilidades: [
-      {
-        habilidade1: 'Confusão',
-        habilidade2: 'Inabilitar',
-      },
+      'Confusão',
+      'Inabilitar',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png',
   },
@@ -2529,10 +2340,9 @@ const pokemons = [
     defesa: 600,
     velocidade: 600,
     habilidades: [
-      {
-        habilidade1: 'Pancada',
-        habilidade2: 'Transformação',
-      },
+      'Pancada',
+      'Transformação',
+
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png',
   },

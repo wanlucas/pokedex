@@ -187,6 +187,10 @@ p , span {
 }
 
 .card-bottom {
+  display: grid;
+  grid-template-rows: 1fr 1.5fr;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas: 't t' 'l r';
   height: 50%;
   color: white;
   padding: 2%;
@@ -194,7 +198,7 @@ p , span {
 
 .poke-info {
   flex-direction: column;
-  height: 35%;
+  grid-area: t;
 }
 
 #poke-types {
@@ -218,14 +222,38 @@ p , span {
   color: hsl(0, 0%, 81%);
 }
 
-.atributes-list {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-  height: 65%;
+.atributes-list, .skills {
+  padding: 0 5px;
 }
 
-.card-bottom h3 {
+.atributes-list ul, .skills ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 6px 0;
+  height: 70%;
+}
+
+.atributes-list {
+  grid-area: l;
+}
+
+.skills {
+  grid-area: r;
+}
+
+.skills ul {
+  justify-content: flex-start;
+}
+
+.skills li {
+  background: linear-gradient(to bottom, rgb(158, 158, 158) , hsl(0, 0%, 27%));
+  margin-bottom: 10px;
+  padding: 1px 5px;
+  border-radius: 3px;
+}
+
+.atributes-list h3, .skills h4 {
   font-style: bold;
   text-align: center;
   font-size: 1rem;
@@ -234,12 +262,12 @@ p , span {
   border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 }
 
-.card-bottom li {
+.atributes-list li {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 10%;
-  padding: 0 10px;
+  height: 15%;
+  font-size: 0.7rem;
 }
 
 .poke-list li:hover {
@@ -254,7 +282,7 @@ p , span {
 .percent-bar {
   background: rgba(255, 255, 255, 0.4);
   border-radius: 18px;
-  width: 87%;
+  width: 80%;
   height: 100%;
   overflow: hidden;
 }
@@ -266,24 +294,24 @@ p , span {
   transition: 0.3s;
   width: 0;
   height: 100%;
-  padding-right: 6px;
+  padding-right: 2px;
   border-radius: 16px;
   border-right: 1px solid hsla(0, 0%, 100%, 0.8);
 }
 
-.card-bottom li:nth-child( 2 ) .percent-progress {
+.atributes-list li:nth-child( 1 ) .percent-progress {
   background: hsla(130, 41%, 49%, 0.8);
 }
 
-.card-bottom li:nth-child( 3 ) .percent-progress {
+.atributes-list li:nth-child( 2 ) .percent-progress {
   background: hsla(0, 100%, 30%, 0.8);
 }
 
-.card-bottom li:nth-child( 4 ) .percent-progress {
+.atributes-list li:nth-child( 3 ) .percent-progress {
   background: hsla(231, 100%, 30%, 0.8);
 }
 
-.card-bottom li:nth-child( 5 ) .percent-progress {
+.atributes-list li:nth-child( 4 ) .percent-progress {
   background: hsla(91, 85%, 43%, 0.9);
 }
 

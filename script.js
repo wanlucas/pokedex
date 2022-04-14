@@ -1,7 +1,5 @@
 import pokemons from './database/api.js';
 
-console.log(pokemons);
-
 const changeTxt = (local, txt) => {
   document.querySelector(`${local}`).innerText = txt;
 };
@@ -51,12 +49,24 @@ const updateStatus = (pokemon) => {
   const sttHTML = document.querySelector(`#${stt}`); 
   const barHTML = sttHTML.querySelector('.percent-progress');
 
-  barHTML.style.width = `${(pokemon[sttHTML.id] * 100) / 1000}%`;
+  barHTML.style.width = `${(pokemon[sttHTML.id] * 100) / 800}%`;
   barHTML.innerText = pokemon[sttHTML.id];
   total += pokemon[sttHTML.id];
   });
 
   document.querySelector('#total span').innerText = total;
+};
+
+const updateSkills = (skills) => {
+  const skillsHtml = document.querySelector('.skills ul');
+  
+  skillsHtml.innerHTML = '';
+  skills.forEach((skill) => {
+    const li = document.createElement('li');
+    li.innerText = skill;
+
+    skillsHtml.appendChild(li);
+  });
 };
 
 const changePokemon = (pokemon) => {
@@ -72,6 +82,7 @@ const changePokemon = (pokemon) => {
   selectPokemon(pokemon.id);
   upateCard(pokemon.tipo);
   updateStatus(pokemon);
+  updateSkills(pokemon.habilidades);
 };
 
 const createList = () => {
