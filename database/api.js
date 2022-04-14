@@ -7,9 +7,7 @@ const pokemons = [
     hp: 220,
     ataque: 240,
     defesa: 260,
-    velocidade: 200,
-    total: 920,
-    habilidades: [
+    velocidade: 200,    habilidades: [
       {
         habilidade1: 'Folha navalha',
         habilidade2: 'Absorver',
@@ -26,7 +24,6 @@ const pokemons = [
     ataque: 280,
     defesa: 300,
     velocidade: 240,
-    total: 1100,
     habilidades: [
       {
         habilidade1: 'Leech Seed',
@@ -44,7 +41,6 @@ const pokemons = [
     ataque: 320,
     defesa: 350,
     velocidade: 260,
-    total: 1250,
     habilidades: [
       {
         habilidade1: 'Raio de Sol',
@@ -62,7 +58,6 @@ const pokemons = [
     ataque: 260,
     defesa: 240,
     velocidade: 260,
-    total: 1000,
     habilidades: [
       {
         habilidade1: 'Lança-chamas',
@@ -80,7 +75,6 @@ const pokemons = [
     ataque: 300,
     defesa: 250,
     velocidade: 300,
-    total: 1120,
     habilidades: [
       {
         habilidade1: 'Golpe de Chamas',
@@ -98,7 +92,6 @@ const pokemons = [
     ataque: 350,
     defesa: 290,
     velocidade: 370,
-    total: 1320,
     habilidades: [
       {
         habilidade1: 'Incinerar',
@@ -115,9 +108,7 @@ const pokemons = [
     hp: 220,
     ataque: 200,
     defesa: 240,
-    velocidade: 210,
-    total: 870,
-    habilidades: [
+    velocidade: 210,    habilidades: [
       {
         habilidade1: 'Bolha',
         habilidade2: 'Revolver de Água',
@@ -134,7 +125,6 @@ const pokemons = [
     ataque: 250,
     defesa: 300,
     velocidade: 240,
-    total: 1040,
     habilidades: [
       {
         habilidade1: 'Carapaça Forte',
@@ -152,7 +142,6 @@ const pokemons = [
     ataque: 280,
     defesa: 330,
     velocidade: 270,
-    total: 1210,
     habilidades: [
       {
         habilidade1: 'Dança da Chuva',
@@ -169,9 +158,7 @@ const pokemons = [
     hp: 200,
     ataque: 200,
     defesa: 230,
-    velocidade: 200,
-    total: 830,
-    habilidades: [
+    velocidade: 200,    habilidades: [
       {
         habilidade1: 'Bando',
         habilidade2: 'Picada',
@@ -187,9 +174,7 @@ const pokemons = [
     hp: 240,
     ataque: 220,
     defesa: 240,
-    velocidade: 210,
-    total: 910,
-    habilidades: [
+    velocidade: 210,    habilidades: [
       {
         habilidade1: 'Exoesqueleto',
         habilidade2: 'Aríate',
@@ -206,7 +191,6 @@ const pokemons = [
     ataque: 320,
     defesa: 270,
     velocidade: 290,
-    total: 1160,
     habilidades: [
       {
         habilidade1: 'Escamas Tricolores',
@@ -223,9 +207,7 @@ const pokemons = [
     hp: 220,
     ataque: 250,
     defesa: 200,
-    velocidade: 200,
-    total: 870,
-    habilidades: [
+    velocidade: 200,    habilidades: [
       {
         habilidade1: 'Perfurar',
         habilidade2: 'Presentimento de Inseto',
@@ -241,9 +223,7 @@ const pokemons = [
     hp: 250,
     ataque: 220,
     defesa: 280,
-    velocidade: 230,
-    total: 980,
-    habilidades: [
+    velocidade: 230,    habilidades: [
       {
         habilidade1: 'Fortificar',
         habilidade2: 'Picada',
@@ -260,7 +240,6 @@ const pokemons = [
     ataque: 420,
     defesa: 310,
     velocidade: 270,
-    total: 1290,
     habilidades: [
       {
         habilidade1: 'Ferroada Persistente',
@@ -277,9 +256,7 @@ const pokemons = [
     hp: 210,
     ataque: 220,
     defesa: 210,
-    velocidade: 240,
-    total: 880,
-    habilidades: [
+    velocidade: 240,    habilidades: [
       {
         habilidade1: 'Coleta',
         habilidade2: 'Lufada de Vento',
@@ -296,7 +273,6 @@ const pokemons = [
     ataque: 260,
     defesa: 240,
     velocidade: 290,
-    total: 1030,
     habilidades: [
       {
         habilidade1: 'Correio Aério',
@@ -314,7 +290,6 @@ const pokemons = [
     ataque: 300,
     defesa: 280,
     velocidade: 330,
-    total: 1190,
     habilidades: [
       {
         habilidade1: 'Ataque de Vento',
@@ -330,9 +305,7 @@ const pokemons = [
     hp: 200,
     ataque: 240,
     defesa: 210,
-    velocidade: 230,
-    total: 880,
-    habilidades: [
+    velocidade: 230,    habilidades: [
       {
         habilidade1: 'Focalizar Energia',
         habilidade2: 'Mordida',
@@ -349,7 +322,6 @@ const pokemons = [
     ataque: 310,
     defesa: 250,
     velocidade: 290,
-    total: 1130,
     habilidades: [
       {
         habilidade1: 'Presa Acentuada',
@@ -366,9 +338,7 @@ const pokemons = [
     hp: 220,
     ataque: 230,
     defesa: 210,
-    velocidade: 240,
-    total: 900,
-    habilidades: [
+    velocidade: 240,    habilidades: [
       {
         habilidade1: 'Bicada',
         habilidade2: 'Mergulo Veloz',
@@ -385,7 +355,6 @@ const pokemons = [
     ataque: 300,
     defesa: 240,
     velocidade: 310,
-    total: 1120,
     habilidades: [
       {
         habilidade1: 'Bico Broca',
@@ -402,9 +371,7 @@ const pokemons = [
     hp: 210,
     ataque: 230,
     defesa: 210,
-    velocidade: 230,
-    total: 880,
-    habilidades: [
+    velocidade: 230,    habilidades: [
       {
         habilidade1: 'Aríate',
         habilidade2: 'Surpresa de Cauda',
@@ -421,7 +388,6 @@ const pokemons = [
     ataque: 300,
     defesa: 250,
     velocidade: 280,
-    total: 1100,
     habilidades: [
       {
         habilidade1: 'Asfixia Pesada',
@@ -439,7 +405,6 @@ const pokemons = [
     ataque: 280,
     defesa: 240,
     velocidade: 280,
-    total: 1020,
     habilidades: [
       {
         habilidade1: 'Choque do trovão',
@@ -457,7 +422,6 @@ const pokemons = [
     ataque: 300,
     defesa: 260,
     velocidade: 330,
-    total: 1170,
     habilidades: [
       {
         habilidade1: 'Carga Veloz',
@@ -474,9 +438,7 @@ const pokemons = [
     hp: 220,
     ataque: 240,
     defesa: 240,
-    velocidade: 220,
-    total: 920,
-    habilidades: [
+    velocidade: 220,    habilidades: [
       {
         habilidade1: 'Desaterrar',
         habilidade2: 'Vamos Botar pra Rolar',
@@ -493,7 +455,6 @@ const pokemons = [
     ataque: 290,
     defesa: 330,
     velocidade: 240,
-    total: 1140,
     habilidades: [
       {
         habilidade1: 'Cavar pra Cima',
@@ -510,9 +471,7 @@ const pokemons = [
     hp: 240,
     ataque: 220,
     defesa: 240,
-    velocidade: 210,
-    total: 910,
-    habilidades: [
+    velocidade: 210,    habilidades: [
       {
         habilidade1: 'Chamar a Família',
         habilidade2: 'Arranhão',
@@ -529,7 +488,6 @@ const pokemons = [
     ataque: 250,
     defesa: 250,
     velocidade: 240,
-    total: 1020,
     habilidades: [
       {
         habilidade1: 'Resgatar a Família',
@@ -547,7 +505,6 @@ const pokemons = [
     ataque: 300,
     defesa: 300,
     velocidade: 260,
-    total: 1160,
     habilidades: [
       {
         habilidade1: 'Chamado da Rainha',
@@ -564,9 +521,7 @@ const pokemons = [
     hp: 220,
     ataque: 240,
     defesa: 220,
-    velocidade: 220,
-    total: 900,
-    habilidades: [
+    velocidade: 220,    habilidades: [
       {
         habilidade1: 'Bicada',
         habilidade2: 'Ataque de Chifre',
@@ -583,7 +538,6 @@ const pokemons = [
     ataque: 290,
     defesa: 250,
     velocidade: 250,
-    total: 1040,
     habilidades: [
       {
         habilidade1: 'Bicada',
@@ -601,7 +555,6 @@ const pokemons = [
     ataque: 340,
     defesa: 300,
     velocidade: 300,
-    total: 1240,
     habilidades: [
       {
         habilidade1: 'Arrastar para Fora',
@@ -618,9 +571,7 @@ const pokemons = [
     hp: 280,
     ataque: 220,
     defesa: 200,
-    velocidade: 200,
-    total: 900,
-    habilidades: [
+    velocidade: 200,    habilidades: [
       {
         habilidade1: 'Pancada',
         habilidade2: 'Tiro Mágico',
@@ -637,7 +588,6 @@ const pokemons = [
     ataque: 260,
     defesa: 230,
     velocidade: 220,
-    total: 1030,
     habilidades: [
       {
         habilidade1: 'Milagre Enluarado',
@@ -654,9 +604,7 @@ const pokemons = [
     hp: 220,
     ataque: 230,
     defesa: 210,
-    velocidade: 240,
-    total: 900,
-    habilidades: [
+    velocidade: 240,    habilidades: [
       {
         habilidade1: 'Carvão Vivo',
         habilidade2: 'Chute Poderoso',
@@ -673,7 +621,6 @@ const pokemons = [
     ataque: 310,
     defesa: 250,
     velocidade: 320,
-    total: 1170,
     habilidades: [
       {
         habilidade1: 'Chamas Sobrenaturais',
@@ -690,9 +637,7 @@ const pokemons = [
     hp: 290,
     ataque: 210,
     defesa: 220,
-    velocidade: 220,
-    total: 940,
-    habilidades: [
+    velocidade: 220,    habilidades: [
       {
         habilidade1: 'Pancada',
         habilidade2: 'Vamos Botar pra Rolar',
@@ -709,7 +654,6 @@ const pokemons = [
     ataque: 250,
     defesa: 250,
     velocidade: 250,
-    total: 1170,
     habilidades: [
       {
         habilidade1: 'Encontrar Tesouro',
@@ -726,9 +670,7 @@ const pokemons = [
     hp: 220,
     ataque: 220,
     defesa: 210,
-    velocidade: 250,
-    total: 900,
-    habilidades: [
+    velocidade: 250,    habilidades: [
       {
         habilidade1: 'Esconde nas Sombras',
         habilidade2: 'Mergulho Veloz',
@@ -745,7 +687,6 @@ const pokemons = [
     ataque: 290,
     defesa: 250,
     velocidade: 330,
-    total: 1150,
     habilidades: [
       {
         habilidade1: 'Compra Discreta',
@@ -762,9 +703,7 @@ const pokemons = [
     hp: 230,
     ataque: 240,
     defesa: 250,
-    velocidade: 210,
-    total: 930,
-    habilidades: [
+    velocidade: 210,    habilidades: [
       {
         habilidade1: 'Aroma Doce',
         habilidade2: 'Pó Venenoso',
@@ -781,7 +720,6 @@ const pokemons = [
     ataque: 270,
     defesa: 270,
     velocidade: 220,
-    total: 1010,
     habilidades: [
       {
         habilidade1: 'Pó de Sono',
@@ -799,7 +737,6 @@ const pokemons = [
     ataque: 290,
     defesa: 290,
     velocidade: 240,
-    total: 1090,
     habilidades: [
       {
         habilidade1: 'Jardim de Flores Perfumadas',
@@ -816,9 +753,7 @@ const pokemons = [
     hp: 230,
     ataque: 240,
     defesa: 240,
-    velocidade: 200,
-    total: 910,
-    habilidades: [
+    velocidade: 200,    habilidades: [
       {
         habilidade1: 'Talho',
         habilidade2: 'Arranhão',
@@ -835,7 +770,6 @@ const pokemons = [
     ataque: 340,
     defesa: 260,
     velocidade: 220,
-    total: 1070,
     habilidades: [
       {
         habilidade1: 'Colisão de Cogumelo',
@@ -852,9 +786,7 @@ const pokemons = [
     hp: 220,
     ataque: 240,
     defesa: 230,
-    velocidade: 220,
-    total: 910,
-    habilidades: [
+    velocidade: 220,    habilidades: [
       {
         habilidade1: 'Baque',
         habilidade2: 'Feixe Psíquico',
@@ -871,7 +803,6 @@ const pokemons = [
     ataque: 290,
     defesa: 250,
     velocidade: 290,
-    total: 1110,
     habilidades: [
       {
         habilidade1: 'Voo Agressivo',
@@ -888,9 +819,7 @@ const pokemons = [
     hp: 180,
     ataque: 230,
     defesa: 200,
-    velocidade: 260,
-    total: 870,
-    habilidades: [
+    velocidade: 260,    habilidades: [
       {
         habilidade1: 'Cavar',
         habilidade2: 'Arranhão',
@@ -907,7 +836,6 @@ const pokemons = [
     ataque: 260,
     defesa: 230,
     velocidade: 380,
-    total: 1110,
     habilidades: [
       {
         habilidade1: 'Trio de Caras',
@@ -925,7 +853,6 @@ const pokemons = [
     ataque: 240,
     defesa: 240,
     velocidade: 280,
-    total: 1000,
     habilidades: [
       {
         habilidade1: 'Dia do Pagamento',
@@ -943,7 +870,6 @@ const pokemons = [
     ataque: 290,
     defesa: 260,
     velocidade: 320,
-    total: 1140,
     habilidades: [
       {
         habilidade1: 'Dia do Pagamento',
@@ -960,9 +886,7 @@ const pokemons = [
     hp: 220,
     ataque: 240,
     defesa: 210,
-    velocidade: 240,
-    total: 910,
-    habilidades: [
+    velocidade: 240,    habilidades: [
       {
         habilidade1: 'Chuva Borrifante',
         habilidade2: 'Arranhão',
@@ -979,7 +903,6 @@ const pokemons = [
     ataque: 310,
     defesa: 270,
     velocidade: 270,
-    total: 1120,
     habilidades: [
       {
         habilidade1: 'Feixe Psíquico',
@@ -996,9 +919,7 @@ const pokemons = [
     hp: 220,
     ataque: 250,
     defesa: 230,
-    velocidade: 250,
-    total: 950,
-    habilidades: [
+    velocidade: 250,    habilidades: [
       {
         habilidade1: 'Arranhão',
         habilidade2: 'Punho Focalizado',
@@ -1015,7 +936,6 @@ const pokemons = [
     ataque: 310,
     defesa: 260,
     velocidade: 300,
-    total: 1120,
     habilidades: [
       {
         habilidade1: 'Soco Tenaz',
@@ -1032,9 +952,7 @@ const pokemons = [
     hp: 230,
     ataque: 260,
     defesa: 220,
-    velocidade: 230,
-    total: 940,
-    habilidades: [
+    velocidade: 230,    habilidades: [
       {
         habilidade1: 'Aquecer',
         habilidade2: 'Combustão',
@@ -1051,7 +969,6 @@ const pokemons = [
     ataque: 320,
     defesa: 250,
     velocidade: 280,
-    total: 1130,
     habilidades: [
       {
         habilidade1: 'Garras de Fogo',
@@ -1068,9 +985,7 @@ const pokemons = [
     hp: 220,
     ataque: 220,
     defesa: 220,
-    velocidade: 260,
-    total: 920,
-    habilidades: [
+    velocidade: 260,    habilidades: [
       {
         habilidade1: "Revolver d'água",
         habilidade2: "Jato D'água",
@@ -1087,7 +1002,6 @@ const pokemons = [
     ataque: 240,
     defesa: 240,
     velocidade: 290,
-    total: 1010,
     habilidades: [
       {
         habilidade1: "Tapa Duplo",
@@ -1105,7 +1019,6 @@ const pokemons = [
     ataque: 300,
     defesa: 280,
     velocidade: 270,
-    total: 1140,
     habilidades: [
       {
         habilidade1: "Soco Espiral Dividido",
@@ -1122,9 +1035,7 @@ const pokemons = [
     hp: 200,
     ataque: 250,
     defesa: 180,
-    velocidade: 250,
-    total: 880,
-    habilidades: [
+    velocidade: 250,    habilidades: [
       {
         habilidade1: "Teleporte",
         habilidade2: "Rugir",
@@ -1141,7 +1052,6 @@ const pokemons = [
     ataque: 290,
     defesa: 200,
     velocidade: 290,
-    total: 1000,
     habilidades: [
       {
         habilidade1: 'Psíquico',
@@ -1159,7 +1069,6 @@ const pokemons = [
     ataque: 350,
     defesa: 220,
     velocidade: 350,
-    total: 1160,
     habilidades: [
       {
         habilidade1: 'Colher Zen',
@@ -1176,9 +1085,7 @@ const pokemons = [
     hp: 240,
     ataque: 250,
     defesa: 220,
-    velocidade: 210,
-    total: 920,
-    habilidades: [
+    velocidade: 210,    habilidades: [
       {
         habilidade1: 'Rasteira',
         habilidade2: 'Soco Firme',
@@ -1194,9 +1101,7 @@ const pokemons = [
     hp: 260,
     ataque: 270,
     defesa: 240,
-    velocidade: 220,
-    total: 990,
-    habilidades: [
+    velocidade: 220,    habilidades: [
       {
         habilidade1: 'Rasteira',
         habilidade2: 'Esmurrar',
@@ -1213,7 +1118,6 @@ const pokemons = [
     ataque: 320,
     defesa: 260,
     velocidade: 230,
-    total: 1100,
     habilidades: [
       {
         habilidade1: 'Machocante',
@@ -1230,9 +1134,7 @@ const pokemons = [
     hp: 230,
     ataque: 240,
     defesa: 220,
-    velocidade: 230,
-    total: 920,
-    habilidades: [
+    velocidade: 230,    habilidades: [
       {
         habilidade1: 'Venochoque',
         habilidade2: 'Chicote de Vinha',
@@ -1249,7 +1151,6 @@ const pokemons = [
     ataque: 270,
     defesa: 240,
     velocidade: 250,
-    total: 1010,
     habilidades: [
       {
         habilidade1: 'Mucosa Perigosa',
@@ -1267,7 +1168,6 @@ const pokemons = [
     ataque: 310,
     defesa: 250,
     velocidade: 250,
-    total: 1080,
     habilidades: [
       {
         habilidade1: 'Vinha de Pânico',
@@ -1281,11 +1181,10 @@ const pokemons = [
     id: 72,
     nome: 'Tentacool',
     tipo: 'Água / Venenoso',
-    hp: 500,
-    ataque: 600,
-    defesa: 400,
-    velocidade: 600,
-    total: 2100,
+    hp: 300,
+    ataque: 200,
+    defesa: 300,
+    velocidade: 200,
     habilidades: [
       {
         habilidade1: 'Ácido',
@@ -1299,11 +1198,10 @@ const pokemons = [
     id: 73,
     nome: 'Tentacruel',
     tipo: 'Água / Venenoso',
-    hp: 500,
-    ataque: 600,
-    defesa: 400,
-    velocidade: 600,
-    total: 2100,
+    hp: 400,
+    ataque: 300,
+    defesa: 300,
+    velocidade: 250,
     habilidades: [
       {
         habilidade1: 'Picada Venenosa',
@@ -1317,11 +1215,10 @@ const pokemons = [
     id: 74,
     nome: 'Geodude',
     tipo: 'Pedra / Terrestre',
-    hp: 500,
-    ataque: 600,
+    hp: 400,
+    ataque: 300,
     defesa: 400,
-    velocidade: 600,
-    total: 2100,
+    velocidade: 300,
     habilidades: [
       {
         habilidade1: 'Investida',
@@ -1335,11 +1232,10 @@ const pokemons = [
     id: 75,
     nome: 'Graveler',
     tipo: 'Pedra / Terrestre',
-    hp: 500,
-    ataque: 600,
-    defesa: 400,
-    velocidade: 600,
-    total: 2100,
+    hp: 400,
+    ataque: 400,
+    defesa: 500,
+    velocidade: 200,
     habilidades: [
       {
         habilidade1: 'Atira Pedras',
@@ -1354,10 +1250,9 @@ const pokemons = [
     nome: 'Golem',
     tipo: 'Pedra / Terrestre',
     hp: 500,
-    ataque: 600,
-    defesa: 400,
-    velocidade: 600,
-    total: 2100,
+    ataque: 500,
+    defesa: 600,
+    velocidade: 150,
     habilidades: [
       {
         habilidade1: 'Terremoto',
@@ -1371,11 +1266,10 @@ const pokemons = [
     id: 77,
     nome: 'Ponyta',
     tipo: 'Fogo',
-    hp: 500,
-    ataque: 600,
-    defesa: 400,
-    velocidade: 600,
-    total: 2100,
+    hp: 200,
+    ataque: 400,
+    defesa: 300,
+    velocidade: 500,
     habilidades: [
       {
         habilidade1: 'Brasa',
@@ -1389,11 +1283,10 @@ const pokemons = [
     id: 78,
     nome: 'Rapidash',
     tipo: 'Fogo',
-    hp: 500,
-    ataque: 600,
-    defesa: 400,
+    hp: 300,
+    ataque: 500,
+    defesa: 300,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Roda de Fogo',
@@ -1407,11 +1300,10 @@ const pokemons = [
     id: 79,
     nome: 'Slowpoke',
     tipo: 'Água / Psíquico',
-    hp: 500,
-    ataque: 600,
-    defesa: 400,
-    velocidade: 600,
-    total: 2100,
+    hp: 200,
+    ataque: 300,
+    defesa: 500,
+    velocidade: 200,
     habilidades: [
       {
         habilidade1: 'Confusão',
@@ -1425,11 +1317,10 @@ const pokemons = [
     id: 80,
     nome: 'Slowbro',
     tipo: 'Água / Psíquico',
-    hp: 500,
-    ataque: 600,
-    defesa: 400,
-    velocidade: 600,
-    total: 2100,
+    hp: 300,
+    ataque: 400,
+    defesa: 500,
+    velocidade: 300,
     habilidades: [
       {
         habilidade1: 'Ataque Psíquico',
@@ -1447,7 +1338,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Explosão Sônica',
@@ -1465,7 +1355,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Investida',
@@ -1483,7 +1372,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Bicada',
@@ -1501,7 +1389,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Bicada',
@@ -1519,7 +1406,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Bicada Broca',
@@ -1537,7 +1423,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Cabeçada',
@@ -1555,7 +1440,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Raio Aurora',
@@ -1573,7 +1457,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Pancada',
@@ -1591,7 +1474,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Lodo',
@@ -1609,7 +1491,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Investida',
@@ -1627,7 +1508,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Raio Aurora',
@@ -1645,7 +1525,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Lambida',
@@ -1663,7 +1542,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Hipnose',
@@ -1681,7 +1559,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Esfera de Escuridão',
@@ -1699,7 +1576,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Investida',
@@ -1717,7 +1593,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Hipnose',
@@ -1735,7 +1610,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Hipnose',
@@ -1754,7 +1628,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Bolha',
@@ -1772,7 +1645,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Agarramento Compressor',
@@ -1790,7 +1662,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Investida',
@@ -1808,7 +1679,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Explosão Sônica',
@@ -1826,7 +1696,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Barricada',
@@ -1844,7 +1713,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Hipnose',
@@ -1862,7 +1730,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Bastão de Osso',
@@ -1880,7 +1747,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Bastão de Osso',
@@ -1898,7 +1764,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Chute Duplo',
@@ -1916,7 +1781,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Soco de Cometa',
@@ -1934,7 +1798,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Enrolar',
@@ -1952,7 +1815,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Investida',
@@ -1970,7 +1832,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Investida',
@@ -1988,7 +1849,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Ataque de Chifre',
@@ -2006,7 +1866,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Ataque de Chifre',
@@ -2024,7 +1883,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Pancada',
@@ -2042,7 +1900,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Contrair',
@@ -2060,7 +1917,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Soco Cometa',
@@ -2078,7 +1934,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Bolha',
@@ -2096,7 +1951,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Encarar',
@@ -2114,7 +1968,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Bicada',
@@ -2132,7 +1985,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Ataque de Chifre',
@@ -2150,7 +2002,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Investida',
@@ -2168,7 +2019,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Recuperar',
@@ -2186,7 +2036,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Confusão',
@@ -2204,7 +2053,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Talho',
@@ -2222,7 +2070,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Tapa',
@@ -2240,7 +2087,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Soco Trovoada',
@@ -2258,7 +2104,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 600,
-    total: 2100,
     habilidades: [
       {
         habilidade1: 'Soco de Fogo',
@@ -2276,7 +2121,6 @@ const pokemons = [
     ataque: 800,
     defesa: 600,
     velocidade: 500,
-    total: 2300,
     habilidades: [
       {
         habilidade1: 'Agarramento Compressor',
@@ -2294,7 +2138,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Investida',
@@ -2312,7 +2155,6 @@ const pokemons = [
     ataque: 100,
     defesa: 400,
     velocidade: 500,
-    total: 1200,
     habilidades: [
       {
         habilidade1: 'Borrifada',
@@ -2330,7 +2172,6 @@ const pokemons = [
     ataque: 600,
     defesa: 500,
     velocidade: 300,
-    total: 1700,
     habilidades: [
       {
         habilidade1: 'Fúria do Dragão',
@@ -2348,7 +2189,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Arma de Água',
@@ -2366,7 +2206,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Transformar',
@@ -2384,7 +2223,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Investida',
@@ -2402,7 +2240,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Ataque Rápido',
@@ -2420,7 +2257,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Ataque Rápido',
@@ -2438,7 +2274,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Ataque Rápido',
@@ -2456,7 +2291,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Investida',
@@ -2474,7 +2308,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Arma de Água',
@@ -2492,7 +2325,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Arma de Água',
@@ -2510,7 +2342,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Arranhão',
@@ -2528,7 +2359,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Arranhão',
@@ -2546,7 +2376,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Ataque de Asa',
@@ -2564,7 +2393,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Cabeçada',
@@ -2582,7 +2410,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Bicada',
@@ -2600,7 +2427,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Choque do Trovão',
@@ -2618,7 +2444,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Bicada',
@@ -2636,7 +2461,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Enrolar',
@@ -2654,7 +2478,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Enrolar',
@@ -2672,7 +2495,6 @@ const pokemons = [
     ataque: 600,
     defesa: 400,
     velocidade: 400,
-    total: 1900,
     habilidades: [
       {
         habilidade1: 'Dança do Dragão',
@@ -2689,7 +2511,6 @@ const pokemons = [
     ataque: 700,
     defesa: 600,
     velocidade: 800,
-    total: 2800,
     habilidades: [
       {
         habilidade1: 'Confusão',
@@ -2707,7 +2528,6 @@ const pokemons = [
     ataque: 600,
     defesa: 600,
     velocidade: 600,
-    total: 2400,
     habilidades: [
       {
         habilidade1: 'Pancada',
