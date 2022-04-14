@@ -10,11 +10,9 @@ const pokemons = [
     velocidade: 200,    habilidades: [
       'Folha navalha',
       'Absorver',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png',
   },
-
   {
     id: 2,
     nome: 'Ivysauro',
@@ -26,11 +24,9 @@ const pokemons = [
     habilidades: [
       'Leech Seed',
       'Stunspore',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png',
   },
-
   {
     id: 3,
     nome: 'Venossauro',
@@ -42,11 +38,9 @@ const pokemons = [
     habilidades: [
       'Raio de Sol',
       'SleepPowder',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png',
   },
-
   {
     id: 4,
     nome: 'Charmander',
@@ -58,11 +52,9 @@ const pokemons = [
     habilidades: [
       'Lança-chamas',
       'Cabeçada',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png',
   },
-
   {
     id: 5,
     nome: 'Charmeleon',
@@ -74,11 +66,9 @@ const pokemons = [
     habilidades: [
       'Golpe de Chamas',
       'Chamas Furiosas',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png',
   },
-
   {
     id: 6,
     nome: 'Charizard',
@@ -90,11 +80,9 @@ const pokemons = [
     habilidades: [
       'Incinerar',
       'Raio de Calor',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png',
   },
-
   {
     id: 7,
     nome: 'Squirtle',
@@ -105,11 +93,9 @@ const pokemons = [
     velocidade: 210,    habilidades: [
       'Bolha',
       'Revolver de Água',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png',
   },
-
   {
     id: 8,
     nome: 'Wartotle',
@@ -120,12 +106,10 @@ const pokemons = [
     velocidade: 240,
     habilidades: [
       'Carapaça Forte',
-      'Aqua Corte',
-
+      'Aqua Corte', 
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png',
   },
-
   {
     id: 9,
     nome: 'Blastoise',
@@ -137,11 +121,9 @@ const pokemons = [
     habilidades: [
       'Dança da Chuva',
       'Investida de Água',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png',
   },
-
   {
     id: 10,
     nome: 'Caterpie',
@@ -152,11 +134,9 @@ const pokemons = [
     velocidade: 200,    habilidades: [
       'Bando',
       'Picada',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png',
   },
-
   {
     id: 11,
     nome: 'Metapod',
@@ -167,11 +147,9 @@ const pokemons = [
     velocidade: 210,    habilidades: [
       'Exoesqueleto',
       'Aríate',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png',
   },
-
   {
     id: 12,
     nome: 'Butterfree',
@@ -183,11 +161,9 @@ const pokemons = [
     habilidades: [
       'Escamas Tricolores',
       'Lufada de Vento',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png',
   },
-
   {
     id: 13,
     nome: 'Weedle',
@@ -198,11 +174,9 @@ const pokemons = [
     velocidade: 200,    habilidades: [
       'Perfurar',
       'Presentimento de Inseto',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png',
   },
-
   {
     id: 14,
     nome: 'Kakuna',
@@ -213,11 +187,9 @@ const pokemons = [
     velocidade: 230,    habilidades: [
       'Fortificar',
       'Picada',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png',
   },
-
   {
     id: 15,
     nome: 'Beedril',
@@ -229,11 +201,9 @@ const pokemons = [
     habilidades: [
       'Ferroada Persistente',
       'Lança a jato',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png',
   },
-
   {
     id: 16,
     nome: 'Pidgey',
@@ -244,11 +214,9 @@ const pokemons = [
     velocidade: 240,    habilidades: [
       'Coleta',
       'Lufada de Vento',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png',
   },
-
   {
     id: 17,
     nome: 'Pidgeotto',
@@ -260,11 +228,9 @@ const pokemons = [
     habilidades: [
       'Correio Aério',
       'Lufada de Vento',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png',
   },
-
   {
     id: 18,
     nome: 'Pidgeot',
@@ -276,7 +242,6 @@ const pokemons = [
     habilidades: [
       'Ataque de Vento',
       'Tempestade Giratória',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png',
   },
@@ -290,11 +255,9 @@ const pokemons = [
     velocidade: 230,    habilidades: [
       'Focalizar Energia',
       'Mordida',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png',
   },
-
   {
     id: 20,
     nome: 'Raticate',
@@ -306,11 +269,9 @@ const pokemons = [
     habilidades: [
       'Presa Acentuada',
       'Hiperpresa',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png',
   },
-
   {
     id: 21,
     nome: 'Spearow',
@@ -321,11 +282,9 @@ const pokemons = [
     velocidade: 240,    habilidades: [
       'Bicada',
       'Mergulo Veloz',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png',
   },
-
   {
     id: 22,
     nome: 'Fearow',
@@ -337,11 +296,9 @@ const pokemons = [
     habilidades: [
       'Bico Broca',
       'Ataque Cortante',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png',
   },
-
   {
     id: 23,
     nome: 'Ekans',
@@ -352,11 +309,9 @@ const pokemons = [
     velocidade: 230,    habilidades: [
       'Aríate',
       'Surpresa de Cauda',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png',
   },
-
   {
     id: 24,
     nome: 'Arbok',
@@ -368,11 +323,9 @@ const pokemons = [
     habilidades: [
       'Asfixia Pesada',
       'Dente Venenoso',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png',
   },
-
   {
     id: 25,
     nome: 'Pikachu',
@@ -384,11 +337,9 @@ const pokemons = [
     habilidades: [
       'Choque do trovão',
       'Cabeçada',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png',
   },
-
   {
     id: 26,
     nome: 'Raichu',
@@ -400,11 +351,9 @@ const pokemons = [
     habilidades: [
       'Carga Veloz',
       'Trovão',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png',
   },
-
   {
     id: 27,
     nome: 'Sandshrew',
@@ -415,11 +364,9 @@ const pokemons = [
     velocidade: 220,    habilidades: [
       'Desaterrar',
       'Vamos Botar pra Rolar',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png',
   },
-
   {
     id: 28,
     nome: 'Sandslash',
@@ -431,11 +378,9 @@ const pokemons = [
     habilidades: [
       'Cavar pra Cima',
       'Fosso de Areia',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png',
   },
-
   {
     id: 29,
     nome: 'Nidoran',
@@ -446,11 +391,9 @@ const pokemons = [
     velocidade: 210,    habilidades: [
       'Chamar a Família',
       'Arranhão',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png',
   },
-
   {
     id: 30,
     nome: 'Nidorina',
@@ -462,11 +405,9 @@ const pokemons = [
     habilidades: [
       'Resgatar a Família',
       'Mordida',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png',
   },
-
   {
     id: 31,
     nome: 'Nidoqueen',
@@ -478,11 +419,9 @@ const pokemons = [
     habilidades: [
       'Chamado da Rainha',
       'Lariat Poderoso',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png',
   },
-
   {
     id: 32,
     nome: 'Nidoran ♂',
@@ -493,11 +432,9 @@ const pokemons = [
     velocidade: 220,    habilidades: [
       'Bicada',
       'Ataque de Chifre',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png',
   },
-
   {
     id: 33,
     nome: 'Nidorino',
@@ -509,11 +446,9 @@ const pokemons = [
     habilidades: [
       'Bicada',
       'Chifre Broca',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png',
   },
-
   {
     id: 34,
     nome: 'Nidoking',
@@ -525,11 +460,9 @@ const pokemons = [
     habilidades: [
       'Arrastar para Fora',
       'Pancada do Rei',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png',
   },
-
   {
     id: 35,
     nome: 'Clefairy',
@@ -540,11 +473,9 @@ const pokemons = [
     velocidade: 200,    habilidades: [
       'Pancada',
       'Tiro Mágico',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png',
   },
-
   {
     id: 36,
     nome: 'Clefable',
@@ -556,11 +487,9 @@ const pokemons = [
     habilidades: [
       'Milagre Enluarado',
       'Tiro Mágico',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png',
   },
-
   {
     id: 37,
     nome: 'Vulpix',
@@ -571,11 +500,9 @@ const pokemons = [
     velocidade: 240,    habilidades: [
       'Carvão Vivo',
       'Chute Poderoso',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png',
   },
-
   {
     id: 38,
     nome: 'Ninetales',
@@ -587,11 +514,9 @@ const pokemons = [
     habilidades: [
       'Chamas Sobrenaturais',
       'Calda de Chamas',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png',
   },
-
   {
     id: 39,
     nome: 'Jigglypuff',
@@ -602,11 +527,9 @@ const pokemons = [
     velocidade: 220,    habilidades: [
       'Pancada',
       'Vamos Botar pra Rolar',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png',
   },
-
   {
     id: 40,
     nome: 'Wigglytuff',
@@ -618,11 +541,9 @@ const pokemons = [
     habilidades: [
       'Encontrar Tesouro',
       'Hiperpancada',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png',
   },
-
   {
     id: 41,
     nome: 'Zubat',
@@ -633,11 +554,9 @@ const pokemons = [
     velocidade: 250,    habilidades: [
       'Esconde nas Sombras',
       'Mergulho Veloz',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png',
   },
-
   {
     id: 42,
     nome: 'Golbat',
@@ -649,11 +568,9 @@ const pokemons = [
     habilidades: [
       'Compra Discreta',
       'Golpe de Ar',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png',
   },
-
   {
     id: 43,
     nome: 'Oddish',
@@ -668,7 +585,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png',
   },
-
   {
     id: 44,
     nome: 'Gloom',
@@ -680,11 +596,9 @@ const pokemons = [
     habilidades: [
       'Pó de Sono',
       'Aroma Fétido',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png',
   },
-
   {
     id: 45,
     nome: 'Vileplume',
@@ -696,11 +610,9 @@ const pokemons = [
     habilidades: [
       'Jardim de Flores Perfumadas',
       'Florescer Intenso',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png',
   },
-
   {
     id: 46,
     nome: 'Paras',
@@ -711,11 +623,9 @@ const pokemons = [
     velocidade: 200,    habilidades: [
       'Talho',
       'Arranhão',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png',
   },
-
   {
     id: 47,
     nome: 'Parasect',
@@ -727,11 +637,9 @@ const pokemons = [
     habilidades: [
       'Colisão de Cogumelo',
       'Raio Solar',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png',
   },
-
   {
     id: 48,
     nome: 'Venonat',
@@ -742,11 +650,9 @@ const pokemons = [
     velocidade: 220,    habilidades: [
       'Baque',
       'Feixe Psíquico',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png',
   },
-
   {
     id: 49,
     nome: 'Venomoth',
@@ -758,11 +664,9 @@ const pokemons = [
     habilidades: [
       'Voo Agressivo',
       'Pó Venenoso',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png',
   },
-
   {
     id: 50,
     nome: 'Digglet',
@@ -789,11 +693,9 @@ const pokemons = [
     habilidades: [
       'Trio de Caras',
       'Bomba de Lamas',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png',
   },
-
   {
     id: 52,
     nome: 'Meowth',
@@ -805,11 +707,9 @@ const pokemons = [
     habilidades: [
       'Dia do Pagamento',
       'Fingimento',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png',
   },
-
   {
     id: 53,
     nome: 'Persian',
@@ -821,11 +721,9 @@ const pokemons = [
     habilidades: [
       'Dia do Pagamento',
       'Mordida',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png',
   },
-
   {
     id: 54,
     nome: 'Psyduck',
@@ -836,11 +734,9 @@ const pokemons = [
     velocidade: 240,    habilidades: [
       'Chuva Borrifante',
       'Arranhão',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png',
   },
-
   {
     id: 55,
     nome: 'Golduck',
@@ -852,11 +748,9 @@ const pokemons = [
     habilidades: [
       'Feixe Psíquico',
       'Surfar',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png',
   },
-
   {
     id: 56,
     nome: 'Mankey',
@@ -867,11 +761,9 @@ const pokemons = [
     velocidade: 250,    habilidades: [
       'Arranhão',
       'Punho Focalizado',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png',
   },
-
   {
     id: 57,
     nome: 'Primeape',
@@ -883,11 +775,9 @@ const pokemons = [
     habilidades: [
       'Soco Tenaz',
       'Destruir',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png',
   },
-
   {
     id: 58,
     nome: 'Growlithe',
@@ -898,11 +788,9 @@ const pokemons = [
     velocidade: 230,    habilidades: [
       'Aquecer',
       'Combustão',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png',
   },
-
   {
     id: 59,
     nome: 'Arcanine',
@@ -914,11 +802,9 @@ const pokemons = [
     habilidades: [
       'Garras de Fogo',
       'Golpe de Colisão de Fogo',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png',
   },
-
   {
     id: 60,
     nome: 'Poliwag',
@@ -929,11 +815,9 @@ const pokemons = [
     velocidade: 260,    habilidades: [
       "Revolver d'água",
       "Jato D'água",
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png',
   },
-
   {
     id: 61,
     nome: 'Poliwhirl',
@@ -945,11 +829,9 @@ const pokemons = [
     habilidades: [
       "Tapa Duplo",
       "Onda Borrifante",
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png',
   },
-
   {
     id: 62,
     nome: 'Poliwrath',
@@ -961,11 +843,9 @@ const pokemons = [
     habilidades: [
       "Soco Espiral Dividido",
       "Tapa do Despertar",
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png',
   },
-
   {
     id: 63,
     nome: 'Abra',
@@ -976,11 +856,9 @@ const pokemons = [
     velocidade: 250,    habilidades: [
       "Teleporte",
       "Rugir",
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png',
   },
-
   {
     id: 64,
     nome: 'Kadabra',
@@ -992,11 +870,9 @@ const pokemons = [
     habilidades: [
       'Psíquico',
       'Raio Psíquico',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png',
   },
-
   {
     id: 65,
     nome: 'Alakazam',
@@ -1008,11 +884,9 @@ const pokemons = [
     habilidades: [
       'Colher Zen',
       'Comando Mental',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png',
   },
-
   {
     id: 66,
     nome: 'Machop',
@@ -1023,11 +897,9 @@ const pokemons = [
     velocidade: 210,    habilidades: [
       'Rasteira',
       'Soco Firme',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png',
   },
-
   {
     id: 67,
     nome: 'Machoke',
@@ -1038,11 +910,9 @@ const pokemons = [
     velocidade: 220,    habilidades: [
       'Rasteira',
       'Esmurrar',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png',
   },
-
   {
     id: 68,
     nome: 'Machamp',
@@ -1054,11 +924,9 @@ const pokemons = [
     habilidades: [
       'Machocante',
       'Soco Dinamite',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png',
   },
-
   {
     id: 69,
     nome: 'Bellsprout',
@@ -1069,11 +937,9 @@ const pokemons = [
     velocidade: 230,    habilidades: [
       'Venochoque',
       'Chicote de Vinha',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png',
   },
-
   {
     id: 70,
     nome: 'Weepinbell',
@@ -1085,11 +951,9 @@ const pokemons = [
     habilidades: [
       'Mucosa Perigosa',
       'Chicote de Vinha',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png',
   },
-
   {
     id: 71,
     nome: 'Victreebel',
@@ -1101,11 +965,9 @@ const pokemons = [
     habilidades: [
       'Vinha de Pânico',
       'Raio Solar',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png',
   },
-    
   {
     id: 72,
     nome: 'Tentacool',
@@ -1120,7 +982,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png'
   },
-
   {
     id: 73,
     nome: 'Tentacruel',
@@ -1135,7 +996,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png'
   },
-
   {
     id: 74,
     nome: 'Geodude',
@@ -1150,7 +1010,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png'
   },
-
   {
     id: 75,
     nome: 'Graveler',
@@ -1165,7 +1024,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png'
   },
-
   {
     id: 76,
     nome: 'Golem',
@@ -1180,7 +1038,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png'
   },
-
   {
     id: 77,
     nome: 'Ponyta',
@@ -1195,7 +1052,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png'
   },
-
   {
     id: 78,
     nome: 'Rapidash',
@@ -1210,7 +1066,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png'
   },
-
   {
     id: 79,
     nome: 'Slowpoke',
@@ -1225,7 +1080,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png'
   },
-
   {
     id: 80,
     nome: 'Slowbro',
@@ -1240,7 +1094,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png'
   },
-
   {
     id: 81,
     nome: 'Magnemite',
@@ -1255,7 +1108,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png'
   },
-
   {
     id: 82,
     nome: 'Magneton',
@@ -1270,7 +1122,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png'
   },
-
   {
     id: 83,
     nome: "Farfetch'd",
@@ -1285,7 +1136,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png'
   },
-
   {
     id: 84,
     nome: 'Doduo',
@@ -1300,7 +1150,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png'
   },
-
   {
     id: 85,
     nome: 'Dodrio',
@@ -1315,7 +1164,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png'
   },
-
   {
     id: 86,
     nome: 'Seel',
@@ -1330,7 +1178,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png'
   },
-
   {
     id: 87,
     nome: 'Dewgong',
@@ -1345,7 +1192,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png'
   },
-
   {
     id: 88,
     nome: 'Grimer',
@@ -1360,7 +1206,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png'
   },
-
   {
     id: 89,
     nome: 'Muk',
@@ -1375,7 +1220,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png'
   },
-
   {
     id: 90,
     nome: 'Shellder',
@@ -1390,7 +1234,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png'
   },
-
   {
     id: 91,
     nome: 'Cloyster',
@@ -1405,7 +1248,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png'
   },
-
   {
     id: 92,
     nome: 'Gastly',
@@ -1420,7 +1262,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png'
   },
-
   {
     id: 93,
     nome: 'Haunter',
@@ -1435,7 +1276,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png'
   },
-
   {
     id: 94,
     nome: 'Gengar',
@@ -1450,7 +1290,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png'
   },
-
   {
     id: 95,
     nome: 'Onix',
@@ -1465,7 +1304,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png'
   },
-
   {
     id: 96,
     nome: 'Drowzee',
@@ -1480,7 +1318,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png'
   },
-
   {
     id: 97,
     nome: 'Hypno',
@@ -1496,7 +1333,6 @@ const pokemons = [
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png'
 
   },
-
   {
     id: 98,
     nome: 'Krabby',
@@ -1511,7 +1347,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png'
   },
-
   {
     id: 99,
     nome: 'Kingler',
@@ -1526,7 +1361,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png'
   },
-
   {
     id: 100,
     nome: 'Voltorb',
@@ -1541,7 +1375,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png'
   },
-
   {
     id: 101,
     nome: 'Electrode',
@@ -1556,7 +1389,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png'
   },
-
   {
     id: 102,
     nome: 'Exeggcute',
@@ -1571,7 +1403,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png'
   },
-
   {
     id: 103,
     nome: 'Exeggutor',
@@ -1586,7 +1417,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png'
   },
-
   {
     id: 104,
     nome: 'Cubone',
@@ -1601,7 +1431,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png'
   },
-
   {
     id: 105,
     nome: 'Marowak',

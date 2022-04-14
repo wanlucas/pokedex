@@ -125,12 +125,13 @@ p , span {
 .poke-list {
   width: 40%;
   padding: 2px 0;
-  scrollbar-width: none;
 }
 
 .poke-list ul {
   height: 100%;
-  overflow: auto;
+  overflow-x: hidden;
+  overflow-y: auto;
+  scrollbar-width: none;
 }
 
 .poke-list li {
@@ -418,6 +419,8 @@ p , span {
   .poke-list ul {
     display: flex;
     height: 100%;
+    overflow-x: scroll;
+    overflow-y: hidden;
   }
 
   .poke-list ul li {
