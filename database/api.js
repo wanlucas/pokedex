@@ -1445,7 +1445,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png'
   },
-
   {
     id: 106,
     nome: 'Hitmonlee',
@@ -1460,7 +1459,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png'
   },
-
   {
     id: 107,
     nome: 'Hitmonchan',
@@ -1475,7 +1473,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png'
   },
-
   {
     id: 108,
     nome: 'Lickitung',
@@ -1490,7 +1487,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png'
   },
-
   {
     id: 109,
     nome: 'Koofing',
@@ -1505,7 +1501,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png'
   },
-
   {
     id: 110,
     nome: 'Weezing',
@@ -1520,7 +1515,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png'
   },
-
   {
     id: 111,
     nome: 'Rhyhorn',
@@ -1536,7 +1530,6 @@ const pokemons = [
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png',
   },
-
   {
     id: 112,
     nome: 'Rhydon',
@@ -1548,11 +1541,9 @@ const pokemons = [
     habilidades: [
       'Ataque de Chifre',
       'Pisotear',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png',
   },
-
   {
     id: 113,
     nome: 'Chansey',
@@ -1564,11 +1555,9 @@ const pokemons = [
     habilidades: [
       'Pancada',
       'Tapa duplo',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png',
   },
-
   {
     id: 114,
     nome: 'Tangela',
@@ -1580,11 +1569,9 @@ const pokemons = [
     habilidades: [
       'Contrair',
       'Absorver',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png',
   },
-
   {
     id: 115,
     nome: 'Kangaskhan',
@@ -1596,11 +1583,9 @@ const pokemons = [
     habilidades: [
       'Soco Cometa',
       'Raiva',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png',
   },
-
   {
     id: 116,
     nome: 'Horsea',
@@ -1612,11 +1597,9 @@ const pokemons = [
     habilidades: [
       'Bolha',
       'Cortina de Fumaça',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png',
   },
-
   {
     id: 117,
     nome: 'Seadra',
@@ -1628,11 +1611,9 @@ const pokemons = [
     habilidades: [
       'Encarar',
       'Hidro bomba',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png',
   },
-
   {
     id: 118,
     nome: 'Goldeen',
@@ -1644,11 +1625,9 @@ const pokemons = [
     habilidades: [
       'Bicada',
       'Ataque de Cauda',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png',
   },
-
   {
     id: 119,
     nome: 'Seaking',
@@ -1660,11 +1639,9 @@ const pokemons = [
     habilidades: [
       'Ataque de Chifre',
       'Cachoeira',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png',
   },
-
   {
     id: 120,
     nome: 'Staryu',
@@ -1676,11 +1653,9 @@ const pokemons = [
     habilidades: [
       'Investida',
       'Arma de Água',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png',
   },
-
   {
     id: 121,
     nome: 'Starmie',
@@ -1692,11 +1667,9 @@ const pokemons = [
     habilidades: [
       'Recuperar',
       'Hidro bomba',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png',
   },
-
   {
     id: 122,
     nome: 'Mr. Mime',
@@ -1708,11 +1681,9 @@ const pokemons = [
     habilidades: [
       'Confusão',
       'Barreira',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png',
   },
-
   {
     id: 123,
     nome: 'Scyther',
@@ -1724,11 +1695,9 @@ const pokemons = [
     habilidades: [
       'Talho',
       'Dança das Espadas',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png',
   },
-
   {
     id: 124,
     nome: 'Jinx',
@@ -1740,11 +1709,9 @@ const pokemons = [
     habilidades: [
       'Tapa',
       'Soco de Gelo',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png',
   },
-
   {
     id: 125,
     nome: 'Electabuzz',
@@ -1756,11 +1723,9 @@ const pokemons = [
     habilidades: [
       'Soco Trovoada',
       'Ataque Rápido',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png',
   },
-
   {
     id: 126,
     nome: 'Magmar',
@@ -1772,11 +1737,9 @@ const pokemons = [
     habilidades: [
       'Soco de Fogo',
       'Lança Chamas',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png',
   },
-
   {
     id: 127,
     nome: 'Pinsir',
@@ -1788,11 +1751,9 @@ const pokemons = [
     habilidades: [
       'Agarramento Compressor',
       'Arremesso Sísmico',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png',
   },
-
   {
     id: 128,
     nome: 'Tauros',
@@ -1804,11 +1765,9 @@ const pokemons = [
     habilidades: [
       'Investida',
       'Pisotear',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png',
   },
-
   {
     id: 129,
     nome: 'Magikarp',
@@ -1820,11 +1779,9 @@ const pokemons = [
     habilidades: [
       'Borrifada',
       'Investida',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png',
   },
-
   {
     id: 130,
     nome: 'Gyarados',
@@ -1836,11 +1793,9 @@ const pokemons = [
     habilidades: [
       'Fúria do Dragão',
       'Hidro bomba',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png',
   },
-
   {
     id: 131,
     nome: 'Lapras',
@@ -1852,11 +1807,9 @@ const pokemons = [
     habilidades: [
       'Arma de Água',
       'Névoa',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png',
   },
-
   {
     id: 132,
     nome: 'Ditto',
@@ -1868,11 +1821,9 @@ const pokemons = [
     habilidades: [
       'Transformar',
       'Transformar',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png',
   },
-
   {
     id: 133,
     nome: 'Eevee',
@@ -1884,11 +1835,9 @@ const pokemons = [
     habilidades: [
       'Investida',
       'Ataque Rápido',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png',
   },
-
   {
     id: 134,
     nome: 'Vaporeon',
@@ -1900,11 +1849,9 @@ const pokemons = [
     habilidades: [
       'Ataque Rápido',
       'Hidro bomba',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png',
   },
-
   {
     id: 135,
     nome: 'Jolteon',
@@ -1916,11 +1863,9 @@ const pokemons = [
     habilidades: [
       'Ataque Rápido',
       'Trovão',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png',
-  },
-
+  },         
   {
     id: 136,
     nome: 'Flareon',
@@ -1932,11 +1877,9 @@ const pokemons = [
     habilidades: [
       'Ataque Rápido',
       'Lança Chamas',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png',
   },
-
   {
     id: 137,
     nome: 'Porygon',
@@ -1948,11 +1891,9 @@ const pokemons = [
     habilidades: [
       'Investida',
       'Conversão',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png',
   },
-
   {
     id: 138,
     nome: 'Omanyte',
@@ -1964,11 +1905,9 @@ const pokemons = [
     habilidades: [
       'Arma de Água',
       'Retirada',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png',
   },
-
   {
     id: 139,
     nome: 'Omastar',
@@ -1980,11 +1919,9 @@ const pokemons = [
     habilidades: [
       'Arma de Água',
       'Ataque de Chifre',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png',
   },
-
   {
     id: 140,
     nome: 'Kabuto',
@@ -1996,11 +1933,9 @@ const pokemons = [
     habilidades: [
       'Arranhão',
       'Endurecer',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png',
   },
-
   {
     id: 141,
     nome: 'Kabutops',
@@ -2012,11 +1947,9 @@ const pokemons = [
     habilidades: [
       'Arranhão',
       'Talho',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png',
   },
-
   {
     id: 142,
     nome: 'Aerodactyl',
@@ -2028,11 +1961,9 @@ const pokemons = [
     habilidades: [
       'Ataque de Asa',
       'Agilidade',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png',
   },
-
   {
     id: 143,
     nome: 'Snorlax',
@@ -2044,11 +1975,9 @@ const pokemons = [
     habilidades: [
       'Cabeçada',
       'Descansar',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png',
   },
-
   {
     id: 144,
     nome: 'Articuno',
@@ -2060,11 +1989,9 @@ const pokemons = [
     habilidades: [
       'Bicada',
       'Raio de Gelo',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png',
   },
-
   {
     id: 145,
     nome: 'Zapdos',
@@ -2076,11 +2003,9 @@ const pokemons = [
     habilidades: [
       'Choque do Trovão',
       'Bicada Broca',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png',
   },
-
   {
     id: 146,
     nome: 'Moltres',
@@ -2092,11 +2017,9 @@ const pokemons = [
     habilidades: [
       'Bicada',
       'Roda de Fogo',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png',
   },
-
   {
     id: 147,
     nome: 'Dratini',
@@ -2108,11 +2031,9 @@ const pokemons = [
     habilidades: [
       'Enrolar',
       'Onda Trovão',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png',
   },
-
   {
     id: 148,
     nome: 'Dragonair',
@@ -2124,11 +2045,9 @@ const pokemons = [
     habilidades: [
       'Enrolar',
       'Encarar',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png',
   },
-
   {
     id: 149,
     nome: 'Dragonite',
@@ -2140,7 +2059,6 @@ const pokemons = [
     habilidades: [
       'Dança do Dragão',
       'Velocidade Extrema',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png',
   },
@@ -2155,11 +2073,9 @@ const pokemons = [
     habilidades: [
       'Confusão',
       'Inabilitar',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png',
   },
-
   {
     id: 151,
     nome: 'Mew',
@@ -2171,7 +2087,6 @@ const pokemons = [
     habilidades: [
       'Pancada',
       'Transformação',
-
     ],
     img: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png',
   },
